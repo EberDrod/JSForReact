@@ -8,7 +8,7 @@ carrito.map(producto => {
     return 'El producto es'+ producto;
 })*/
 
-//Spread Operator 
+//Spread Operator un arreglo duplicado
 function suma(a,b,c){
     console.log(a+b+c);
 
