@@ -24,3 +24,5 @@ const alejandra = persona.find(persona =>{
 });
 console.log(`Alejandra esta aprendiendo` + alejandra.aprendiendo);
 
+
+// Reduce 
